@@ -1,5 +1,7 @@
 # ptlogin
 
+[![Build Status](https://travis-ci.org/chucklqsun/ptlogin.svg?branch=master)](https://travis-ci.org/chucklqsun/ptlogin)
+
 Use to login account.  
 All algorithm and process are open and extract from public JS  
 
