@@ -1,6 +1,6 @@
 language: go
 go: 
-  - tag
+  - tip
 install:
   - go get -v github.com/robertkrimen/otto
 script:
