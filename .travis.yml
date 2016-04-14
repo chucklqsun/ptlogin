@@ -1,0 +1,7 @@
+language: go
+go: 
+  - tag
+install:
+  - go get -v github.com/robertkrimen/otto
+script:
+  - go test github.com/chucklqsun/ptlogin
